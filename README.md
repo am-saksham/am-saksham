@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=am-saksham&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=am-saksham&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# HackTime Stats:
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=6183&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compac)<br/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
