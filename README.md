@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on app development<br>👯 I’m looking to collaborate on Flutter and SwiftUI projects<br>🌱 I’m currently learning Flutter/SwiftUI and CP<br>💬 Ask me about app development
+
+* 🔭 **I’m currently working on:** Building cross-platform mobile applications and cloud-integrated systems.
+* 👯 **I’m looking to collaborate on:** Open-source **Flutter** and **SwiftUI** projects.
+* 🌱 **I’m currently learning:** **Software Systems**, **Cloud Computing**, and **Competitive Programming** in C++.
+* 💬 **Ask me about:** Mobile architecture, **Java** development, and **Database Management Systems**.
 
 
 ## 🌐 Socials:
