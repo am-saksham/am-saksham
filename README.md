@@ -1,3 +1,12 @@
+# Hi, I'm Saksham! 👋
+
+### 🏆 Open Source Highlights
+* **GNU Compiler Collection (GCC):** Successfully contributed a patch to **GCC 17**. Expanded the `-fanalyzer` component to include new CPython API entries. 
+  * [🔗 View my commit in the GCC trunk](https://github.com/gcc-mirror/gcc/commit/f874173600625ec7923319aa41a8a3c82e21ef1e)
+  * [🔍 View all my GCC contributions](https://github.com/gcc-mirror/gcc/commits?author=am-saksham)
+
+---
+
 # 💫 About Me:
 
 * 🔭 **I’m currently working on:** Building cross-platform mobile applications and cloud-integrated systems.
