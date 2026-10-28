@@ -13,9 +13,8 @@ Computer Science undergraduate specializing in designing scalable systems, build
 - **Applied Architecture:** Developed and deployed secure, real-time networking systems including SSL/TLS TCP desktop clients on AWS EC2, and geospatial emergency routing applications.
 
 ### 🏆 Certifications
-<a href="https://www.credly.com/badges/4b1495e7-e44c-4bcb-bb68-49a31438274e/public_url" target="_blank">
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="100"/>
-</a>
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/4b1495e7-e44c-4bcb-bb68-49a31438274e/public_url)
 
 ### 💻 Technical Expertise
 
